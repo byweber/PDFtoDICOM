@@ -55,9 +55,4 @@ Sistema middleware desenvolvido para o **Hospital Municipal São José** que per
 
 ---
 
-## 📦 Instalação
-
-### 1. Clonar o Repositório
-```powershell
-git clone [https://github.com/byweber/PDFtoDICOM.git](https://github.com/byweber/PDFtoDICOM.git)
-cd PDFtoDICOM
+**Desenvolvido com ❤️ para facilitar a integração de documentos médicos com sistemas PACS**
